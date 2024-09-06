@@ -1,9 +1,9 @@
 # world_bank_economy
 A project that pulls data from the world bank API and loads it to a duckdb database.
 
-utils: a package that contains configurations for the API and the functions used. 
-`api_config.py`: provides configuration data< br / >
-`api_funcs.py`: contains functions used to call the API and process the response data < br / >
+utils: a package that contains configurations for the API and the functions used. <br/>
+`api_config.py`: provides configuration data<br/>
+`api_funcs.py`: contains functions used to call the API and process the response data<br/>
 `indicator_search.py`: return a list of indicators in the world bank database based on key words provided.
 
 How to use the repository:
